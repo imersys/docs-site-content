@@ -6,8 +6,7 @@ parent_section: ambia360
 order: 3
 ---
 
-Para instalar nossa **Ferramenta Externa Ambia 360** é necessário já possuir
-quatro coisas: 
+Para instalar nossa **Ferramenta Externa Ambia 360** você irá precisar de:
 
 1. Um ambiente moodle configurado
 2. Um link fornecido pela Imersys
@@ -22,20 +21,19 @@ externa o primeiro passo é ir até a área de **Administração do site**.
 
 <!--toc-->
 
-## Achando o local de instalação
+## Encontrando o local de instalação
 
-Dentro da área de Administração do site na plataforma moodle, selecione a aba
-que trata de **Plugins**
+Dentro da área de Administração do site na plataforma moodle, selecione a aba **Plugins**
 
-![360&deg; Image Viewer](../images/Screenshot_1.png)
+![360&deg; Image Viewer](../images/moodle/Moodle-SS1.png)
 
-Após clicar na aba de Plugins procure a opção **Gerenciar Ferramentas**
+Procure a opção **Gerenciar Ferramentas**
 
-![360&deg; Image Viewer](../images/Screenshot_2.png)
+![360&deg; Image Viewer](../images/moodle/Moodle-SS2.png)
 
  Dentro da página de Gerenciar Ferramentas clique na opção: **Conﬁgurar uma ferramenta manualmente**
 
- ![360&deg; Image Viewer](../images/Screenshot_3.png)
+ ![360&deg; Image Viewer](../images/moodle/Moodle-SS3.png)
 
 ## Preenchendo as informações para instalação
 
@@ -48,7 +46,7 @@ dados fornecidos por **nós** da **Imersys**. São eles:
 
 E na caixa **Uso da configuração de ferramenta**, selecione a opção: **Mostrar no seletor de atividades como uma ferramenta pré-configurada**
 
-![360&deg; Image Viewer](../images/Screenshot_4.png)
+![360&deg; Image Viewer](../images/moodle/Moodle-SS4.png)
 
 > Nós recomendamos que o nome Ambia 360 seja mantido durante a instalação
 > para facilitar o acesso e uso da ferramenta.
@@ -59,7 +57,7 @@ Se a ferramenta foi configurada corretamente, após a tela de configuração voc
 ter a ferramenta já configurada e o status dela como Ativo. Se ela não apareceu é por que
 algo foi configurado de maneira errada, volte no passo-a-passo e tente refazer.
 
-![360&deg; Image Viewer](../images/Screenshot_5.png)
+![360&deg; Image Viewer](../images/moodle/Moodle-SS5.png)
 
 Para testar se a ferramenta funcionou corretamente adicione uma atividade como 
 docente, usando o seguinte código como parâmetro: **"video=357624974"**
