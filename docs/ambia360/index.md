@@ -25,11 +25,11 @@ externa o primeiro passo é ir até a área do **Administrador**.
 
 ## Encontrando o local de instalação
 
-Dentro da seção **Integrações** selecione a opção **Provedores de ferramenta de LTI**
+Dentro da seção **Integrações** selecione a opção **Provedores de ferramenta de LTI**.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS2.png)
 
-Depois selecione na barra superior a opção **Registrar domínio do provedor** 
+Depois selecione na barra superior a opção **Registrar domínio do provedor**.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS3.png)
 
@@ -40,17 +40,17 @@ a ferramenta, fique bem atento as informações presentes nas imagens para ter c
 que tudo irá funcionar corretamente.
 
 No campo **Domínio do provedor** digite **https://lms.imersys.com**, 
-também é necessário selecionar a opção **Aprovado** no **Status do provedor de domínio**
+também é necessário selecionar a opção **Aprovado** no **Status do provedor de domínio**.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS4.png)
 
 Na seção de **Configuração padrão** selecione a opção **Definir globalmente** e nos 
-campos abaixo insira as chaves que foram fornecidas pra você pela Imersys
+campos abaixo insira as chaves que foram fornecidas pra você pela Imersys.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS5.png)
 
 > Se você perdeu suas chaves entre em contato conosco 
-> para ser auxiliado por nosso time
+> para ser auxiliado por nosso time.
 
 Na opção **Campos de usuário para enviar** é importante deixar selecionado todas as opções
 
@@ -68,11 +68,11 @@ Primeiro, Vá na opção **Cursos** no menu lateral e selecione algum curso para
 >No caso aqui utilizamos o curso **Teste de Integração 360**, mas você pode usar **Qualquer curso** para testar
 >a ferramenta
 
-Depois, selecione no menu lateral a opção **Conteúdo**
+Depois, selecione no menu lateral a opção **Conteúdo**.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS8.png)
 
-Após isso, no seletor **Criar Conteúdo** localizado no menu superior, selecione a opção **Criar Link da Web**
+Após isso, no seletor **Criar Conteúdo** localizado no menu superior, selecione a opção **Criar Link da Web**.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS9.png)
 
@@ -83,7 +83,7 @@ ao seu vídeo e depois adicione o **Link** dele.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS10.png)
 
-Por último, nas **Opções de link da web**, marque **Não** para a opção de Abrir link em uma nova janela
+Por último, nas **Opções de link da web**, marque **Não** para a opção de Abrir link em uma nova janela.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS11.png)
 
