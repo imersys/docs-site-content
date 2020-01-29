@@ -8,22 +8,31 @@ order: 1
 section_order: 2
 ---
 
-Para instalar nossa **Ferramenta Externa Ambia 360** você irá precisar de: 
+Esse guia tem como objetivo auxiliar na instalação do **Ambia 360** na plataforma **Blackboard Learn**. Esse guia é primariamente destinado à **administradores de sistemas**.
 
-1. Acesso a um ambiente Blackboard
-2. Um link fornecido pela Imersys
-3. Uma chave de segredo fornecida pela Imersys
-4. Uma chave do consumidor fornecida pela Imersys
+## Requisitos Técnicos
 
-Se você já possui tudo isso, para iniciar a instalação da ferramenta 
-externa o primeiro passo é ir até a área do **Administrador**. 
+A seguir são listados os requisitos técnicos necessários para realizar a instalação do **Ambia 360**:
+
+1. Um **ambiente Blackboard Learn** configurado com acesso de **administrador**
+2. O **Domínio do provedor** (fornecido pela Imersys por e-mail)
+3. A **Chave do provedor** (fornecida pela Imersys por e-mail)
+4. O **Segredo do provedor** (fornecida pela Imersys por e-mail)
+
+> A **Chave do provedor** e a **Segredo do provedor** são de uso exclusivo de sua instituição. Portanto, se você pretende utilizar mais de uma instalação, solicite à Imersys novas chaves.
+>
+
+## Guia de Instalação
+
+### 1º Passo: Acessando a área de Administração
+
+Se sua instituição satifaz todos os requisitos técnicos da seção anterior, o primeiro passo para iniciar a instalação da ferramenta é ir até a área do **Administrador**.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS1.png)
 
-> Se você não tem acesso à essa área, peça ao administrador do Blackboard para que 
-> instale a ferramenta para você ou peça para que ele lhe conceda acesso.
+> Se você não tem acesso à essa área, peça ao administrador do Blackboard Learn de sua instituição para que instale esta ferramenta para você ou peça para que ele lhe conceda acesso.
 
-## Encontrando o local de instalação
+### 2º Passo: Encontrando o local de instalação
 
 Dentro da seção **Integrações** selecione a opção **Provedores de ferramenta de LTI**.
 
@@ -33,14 +42,11 @@ Depois selecione na barra superior a opção **Registrar domínio do provedor**.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS3.png)
 
-## Configurando a ferramenta
+### 3º Passo: Configurando a ferramenta
 
-Agora vamos preencher as informações necessárias e configurações para instalar
-a ferramenta, fique bem atento as informações presentes nas imagens para ter certeza
-que tudo irá funcionar corretamente.
+Agora vamos preencher as informações necessárias e configurações para instalar a ferramenta. Esteja bem atento às informações presentes nas imagens para ter certeza que tudo irá funcionar corretamente.
 
-No campo **Domínio do provedor** digite **https://lms.imersys.com**, 
-também é necessário selecionar a opção **Aprovado** no **Status do provedor de domínio**.
+Você irá utilizar os dados fornecidos pela Imersys para preencher o campo **Domínio do provedor**. Também será necessário selecionar a opção **Aprovado** no **Status do provedor de domínio**.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS4.png)
 
@@ -49,23 +55,20 @@ campos abaixo insira as chaves que foram fornecidas pra você pela Imersys.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS5.png)
 
-> Se você perdeu suas chaves entre em contato conosco 
-> para ser auxiliado por nosso time.
-
-Na opção **Campos de usuário para enviar** é importante deixar selecionado todas as opções
+Na opção **Campos de usuário para enviar** é importante deixar selecionadas todas as opções
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS6.png)
 
 Em seguida clique em **Enviar** e pronto! Se você seguiu todos os passos corretamente sua
-**Ferramenta Ambia 360** foi instalada com sucesso. Se algo deu errado **revise a instalação** para ver se nenhum erro foi cometido.
+ferramenta **Ambia 360** foi instalada com sucesso. Se algo deu errado revise a [instalação](#guia-de-instalacao) para ver se nenhum erro foi cometido.
 
-## Testando a ferramenta
+## Testando a Ferramenta
 
-Primeiro, Vá na opção **Cursos** no menu lateral e selecione algum curso para adicionar a ferramenta.
+Após finalizar todos os procedimentos anteriores, recomendamos que seja realizado um teste. Para testar a ferramenta, selecione a opção **Cursos** no menu lateral e então selecione algum curso para adicionar à ferramenta.
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS7.png)
 
->No caso aqui utilizamos o curso **Teste de Integração 360**, mas você pode usar **Qualquer curso** para testar
+>No caso aqui utilizamos o curso **Teste de Integração 360**, mas a princípio você pode usar *qualquer* curso para testar
 >a ferramenta
 
 Depois, selecione no menu lateral a opção **Conteúdo**.
@@ -77,9 +80,7 @@ Após isso, no seletor **Criar Conteúdo** localizado no menu superior, selecion
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS9.png)
 
 Agora é necessário preencher as informações para adicionar o vídeo, adicione um **Nome**
-ao seu vídeo e depois adicione o **Link** dele.
-
->Para facilitar já temos um link pronto para você testar: **https://lms.imersys.com/?ua=363681335**
+ao seu vídeo e depois adicione a **URL** dele. A **URL** será uma composição do **Domínio do provedor** e código do vídeo. Exemplo: **https://lms.imersys.com/?ua=363681335**
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS10.png)
 
@@ -87,17 +88,6 @@ Por último, nas **Opções de link da web**, marque **Não** para a opção de 
 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS11.png)
 
-E **pronto**! Se você seguiu todos os passos corretamente seu vídeo deve ter sido
-adicionado com sucesso dentro desse curso. 
+Pronto! Um vídeo da coleção do **Ambia 360** foi adicionado com sucesso. Para assistir e interagir com o vídeo agora, vá até a página do curso em que foi adicionado e selecione o título do vídeo.
 
-Volte na página de **Conteúdo** e veja se está tudo certo. Caso o vídeo 
-**não esteja funcionando corretamente**, cheque os passos novamente para ver se 
-cometeu algum erro.
-
-
-
-
-
-
-
-
+>Se o vídeo não carregou é possível que você tenha errado algum passo durante a [instalação](#guia-de-instalacao) ou talvez na hora de adicionar o vídeo. Caso necessário, realize a instalação e configuração novamente.
