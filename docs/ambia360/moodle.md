@@ -6,47 +6,51 @@ parent_section: ambia360
 order: 3
 ---
 
-Para instalar nossa **Ferramenta Externa Ambia 360** você irá precisar de:
+Esse guia tem como objetivo auxiliar na instalação do **Ambia 360** na plataforma **Moodle**.
 
-1. Um ambiente moodle configurado
-2. Um link fornecido pela Imersys
-3. Uma chave de segredo fornecida pela Imersys
-4. Uma chave do consumidor, também fornecida pela Imersys
+## Requisitos Técnicos
 
-Se você já possui todas essas coisas, o primeiro passo para iniciar a instalação da ferramenta é ir até a área de **Administração do site**. 
+A seguir são listados os requisitos técnicos necessários para realizar a instalação:
+
+1. Um **ambiente Moodle configurado** com acesso de **administrador**
+2. A **URL da ferramenta** (fornecido pela Imersys por e-mail)
+3. A **Chave do consumidor** (fornecida pela Imersys por e-mail)
+4. O **Segredo compartilhado** (fornecida pela Imersys por e-mail)
+
+> A **Chave do consumidor** e a **Chave de segredo** são de uso exclusivo. Portanto, se você pretende utilizar mais de uma instalação, solicite à Imersys novas chaves.
+>
+
+## Guia de Instalação
+
+### 1º Passo: Acessando a área de Administração
+
+Se sua IES satifaz todos os requisitos técnicos da seção anterior, o primeiro passo para iniciar a instalação da ferramenta é ir até a área de **Administração do site**.
 
 ![360&deg; Image Viewer](../images/moodle/Moodle-SS1.png)
 
-> Se você não tem acesso à essa área, peça ao administrador do moodle para que 
-> instale a ferramenta para você ou peça para que ele lhe conceda acesso.
+> Se você não tem acesso à essa área, peça ao administrador do Moodle  de sua IES para que instale esta ferramenta para você ou peça para que ele lhe conceda acesso.
 
 <!--toc-->
 
-## Encontrando o local de instalação
+### 2º Passo: Encontrando o local de instalação
 
-Dentro da área de Administração do site na plataforma moodle, selecione a aba **Plugins** e procure a opção **Gerenciar Ferramentas**.
+Dentro da área de **Administração do site** na plataforma Moodle, selecione a aba **Plugins** e na seção de **Atividades** a opção **Gerenciar ferramentas**.
 
 ![360&deg; Image Viewer](../images/moodle/Moodle-SS2.png)
 
- Dentro da página de Gerenciar Ferramentas clique na opção: **Conﬁgurar uma ferramenta manualmente**.
+ Dentro da página de **Gerenciar ferramentas** selecione a opção **Conﬁgurar uma ferramenta manualmente**.
 
 ![360&deg; Image Viewer](../images/moodle/Moodle-SS3.png)
 
-## Preenchendo as informações para instalação
+### 3º Passo: Preenchendo as informações
 
-Agora dentro da página de Configurar Ferramenta, além de preencher o nome
-de sua escolha para a ferramenta, você irá precisar de alguns
-dados fornecidos por **nós** da **Imersys**. São eles:
- 1. URL da ferramenta
- 2. Chave do Consumidor
- 3. Segredo Compartilhado
+Agora dentro da página de **Configurações da ferramenta**, além de preencher "Ambia 360" como o nome para a ferramenta, você irá utilizar os dados fornecidos pela Imersys para preencher os campos da **URL da ferramenta**, **Chave do consumidor** e **Segredo compartilhado**.
 
-E na caixa **Uso da configuração de ferramenta**, selecione a opção: **Mostrar no seletor de atividades como uma ferramenta pré-configurada**.
+Feito isso, na caixa **Uso da configuração de ferramenta**, selecione a opção **Mostrar no seletor de atividades como uma ferramenta pré-configurada**.
 
 ![360&deg; Image Viewer](../images/moodle/Moodle-SS4.png)
 
-> Nós recomendamos que o nome Ambia 360 seja mantido durante a instalação
-> para facilitar o acesso e uso da ferramenta.
+> Nós recomendamos que o nome "Ambia 360" seja utilizado durante a instalação para facilitar o acesso e uso da ferramenta.
 
 ## Testando a Ferramenta
 
@@ -62,7 +66,7 @@ Com o modo de edição habilitado, ainda à direita da página selecione a opç�
 
 ![360&deg; Image Viewer](../images/moodle/Moodle-SS7.png)
 
-Dentro do pop-up de Adicionar uma atividade ou recurso selecione a ferramenta **Ambia 360** e clique em **Adicionar**.
+Dentro do pop-up de **Adicionar uma atividade ou recurso** selecione a ferramenta **Ambia 360** e selecione **Adicionar**.
 
 ![360&deg; Image Viewer](../images/moodle/Moodle-SS8.png)
 
@@ -70,22 +74,16 @@ Dentro do pop-up de Adicionar uma atividade ou recurso selecione a ferramenta **
 
 ![360&deg; Image Viewer](../images/moodle/Moodle-SS9.png)
 
->Se você não encontrou a opção **Ambia 360** pode ser que tenha feito algum erro no processo de instalação da ferramenta
-ou tenha adicionado um nome diferente para ela.
-
-Na página seguinte, clique na opção **Mostrar mais**.
+Na página seguinte, selecione a opção **Mostrar mais**.
 
 ![360&deg; Image Viewer](../images/moodle/Moodle-SS10.png)
 
-Após isso preencha o nome do vídeo e, no campo **Parâmetros Customizados** coloque o seguinte parâmetro: **ua=363788003**.
+Após isso preencha o nome do vídeo e, no campo **Parâmetros customizados** coloque o parâmetro "ua=363788003".
 
 ![360&deg; Image Viewer](../images/moodle/Moodle-SS11.png)
 
->O parâmetro deve carregar o seguinte vídeo: **Pedagogia do brincar**.
+>O parâmetro "ua=363788003" irá carregar o vídeo "Pedagogia do brincar".
 
-E pronto! seu vídeo foi adicionado. Para assistir o vídeo vá até a página do curso em que foi adicionado e clique no título do vídeo.
+Pronto! Um vídeo da coleção do **Ambia 360** foi adicionado com sucesso. Para assistir e interagir com o vídeo agora, vá até a página do curso em que foi adicionado e selecione o título do vídeo.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS12.png)
-
->Se o vídeo não carregou é possível que você tenha errado algum passo na **instalação** ou na hora de **adicionar o vídeo**.
-> Se necessário realize a instalação e configuração novamente.
+>Se o vídeo não carregou é possível que você tenha errado algum passo durante a [instalação](#guia-de-instalacao) ou talvez na hora de adicionar o vídeo. Caso necessário, realize a instalação e configuração novamente.
