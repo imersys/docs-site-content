@@ -53,11 +53,21 @@ para para uma maior imersão e também maior conforto durante a visualização d
 | Firefox **(recomendado)**   | 68+                |         Sim            |
 | Chrome     | 79+                |         Em breve       |
 
-### iPhone  (iOS 13.3) & iPad
+### iPhone (iOS 13.3+)
 
 | Navegador  | Versão suportada                      | Funciona com [Cardboard](https://pt.wikipedia.org/wiki/Google_Cardboard) |
 |------------|---------------------------------------|---------|
 | Safari **(recomendado)**    | 13                   |   Sim   |
-| Chrome     | 79+, porém sem suporte ao giroscópio  |   Em breve      |
+| Chrome     | 79             |   Sim                          |
 
 
+### iPad (iPad OS)
+
+
+| Navegador  | Versão suportada                      |
+|------------|---------------------------------------|
+| Safari     | 13, com a opção de `Site Móvel` (ver explicação abaixo)                   |
+
+No iPad, o navegador Safari utiliza por padrão a versão desktop para visualizar as páginas, o que impossibilita alguns recursos mobile interessantes do VR Player (como o acesso ao giroscópio do dispositivo, por exemplo). Portanto, o usuário deverá `Solicitar Site Móvel` no Safari ao clicar no botão `aA` da barra de URL de modo que utilize todos os recursos do VR Player:
+
+![360&deg; Image Viewer](../images/vrplayer-ipad-request-mobile-version.png)
