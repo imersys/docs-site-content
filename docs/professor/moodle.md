@@ -1,10 +1,9 @@
 ---
 title: Adicionando vídeos ao Moodle
-section_title: Professor
 type: professor
 layout: docs
 order: 1
-parent_section: docs
+parent_section: professor
 section_order: 1
 installation: true
 ---
