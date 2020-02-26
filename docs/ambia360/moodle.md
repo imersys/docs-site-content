@@ -6,7 +6,7 @@ parent_section: ambia360
 order: 3
 ---
 
-Esse guia tem como objetivo auxiliar na instalação do **Ambia 360** na plataforma **Moodle**. Esse guia é primariamente destinado à **administradores de sistemas**.
+> Este guia tem o objetivo de auxiliar a instalação do **Ambia 360** na plataforma **Moodle**. O guia é primariamente destinado à **administradores de sistemas**.
 
 ## Requisitos Técnicos
 

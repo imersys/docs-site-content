@@ -8,7 +8,8 @@ order: 1
 section_order: 2
 ---
 
-Esse guia tem como objetivo auxiliar na instalação do **Ambia 360** na plataforma **Blackboard Learn**. Esse guia é primariamente destinado à **administradores de sistemas**.
+> Este guia tem o objetivo de auxiliar a instalação do **Ambia 360** na plataforma **Blackboard Learn**. O guia é primariamente destinado à **administradores de sistemas**.
+
 
 ## Requisitos Técnicos
 

@@ -1,13 +1,14 @@
 ---
 title: Adicionando vídeos ao Blackboard
-section_title: Professor
-type: professor
+type: ambia360
 layout: docs
-order: 1
-parent_section: docs
-section_order: 1
-installation: true
+order: 4
+parent_section: ambia360
 ---
+
+> Este guia tem o objetivo de auxiliar a utilização do **Ambia 360** na plataforma **Blackboard Learn**. O guia é primariamente destinado à **professores e coordenadores de instituições de ensino**.
+
+## Requisitos
 
 O primeiro passo para conseguir adicionar vídeos Ambia 360 para a sua plataforma Blackboard é garantir que a instalação
 da *ferramenta Ambia 360* foi feita corretamente no seu ambiente, caso a instalação não tenha sido feita, peça
