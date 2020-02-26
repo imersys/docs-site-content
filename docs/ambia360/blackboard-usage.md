@@ -6,11 +6,13 @@ order: 4
 parent_section: ambia360
 ---
 
+[blackboard]: ./index.md
+
 > Este guia tem o objetivo de auxiliar a utilização do **Ambia 360** na plataforma **Blackboard Learn**. O guia é primariamente destinado à **professores e coordenadores de instituições de ensino**.
 
 ## Requisitos Técnicos
 
-O primeiro passo para adicionar vídeos do **Ambia 360** no Blackboard é garantir que a instalação do **Ambia 360** foi feita corretamente no seu ambiente. Caso a instalação não tenha sido feita, peça auxílio ao administrador do sistema de sua instituição para que a realize e teste antes de prosseguir neste guia.
+O primeiro passo para adicionar vídeos do **Ambia 360** é garantir que a [instalação do **Ambia 360**][blackboard] foi realizada corretamente no Blackboard em sua instituição de ensino. Caso a instalação não tenha sido feita, peça auxílio ao administrador do sistema de sua instituição para que a faça antes de prosseguir neste guia.
 
 
 ## Guia para adicionar vídeos
@@ -67,4 +69,4 @@ Por fim, nas **Opções de link da web**, marque **Não** para a opção de Abri
 
 Pronto! Um vídeo da coleção do **Ambia 360** foi adicionado com sucesso. Para assistir e interagir com o vídeo agora, vá até a página do curso em que foi adicionado e selecione o título do vídeo.
 
->Se o vídeo não carregou é possível que você tenha errado algum passo durante a [instalação](#guia-de-instalacao) ou talvez na hora de adicionar o vídeo. Caso necessário, realize a instalação e configuração novamente.
+>Se o vídeo não carregou é possível que você tenha errado algum passo durante a [instalação][blackboard] ou talvez na hora de adicionar o vídeo. Caso necessário, realize a instalação e configuração novamente.
