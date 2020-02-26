@@ -63,32 +63,8 @@ Na opção **Campos de usuário para enviar** é importante deixar selecionadas 
 Em seguida clique em **Enviar** e pronto! Se você seguiu todos os passos corretamente sua
 ferramenta **Ambia 360** foi instalada com sucesso. Se algo deu errado revise a [instalação](#guia-de-instalacao) para ver se nenhum erro foi cometido.
 
-## Testando a Ferramenta
+## Testando a Instalação
 
-Após finalizar todos os procedimentos anteriores, recomendamos que seja realizado um teste. Para testar a ferramenta, selecione a opção **Cursos** no menu lateral e então selecione algum curso para adicionar à ferramenta.
+[blackboard-usage]: ./blackboard-usage.md
 
-![360&deg; Image Viewer](../images/blackboard/Blackboard-SS7.png)
-
->No caso aqui utilizamos o curso **Teste de Integração 360**, mas a princípio você pode usar *qualquer* curso para testar
->a ferramenta
-
-Depois, selecione no menu lateral a opção **Conteúdo**.
-
-![360&deg; Image Viewer](../images/blackboard/Blackboard-SS8.png)
-
-Após isso, no seletor **Criar Conteúdo** localizado no menu superior, selecione a opção **Criar Link da Web**.
-
-![360&deg; Image Viewer](../images/blackboard/Blackboard-SS9.png)
-
-Agora é necessário preencher as informações para adicionar o vídeo, adicione um **Nome**
-ao seu vídeo e depois adicione a **URL** dele. A **URL** será uma composição do **Domínio do provedor** e código do vídeo. Exemplo: **https://lms.imersys.com/?ua=363681335**
-
-![360&deg; Image Viewer](../images/blackboard/Blackboard-SS10.png)
-
-Por último, nas **Opções de link da web**, marque **Não** para a opção de Abrir link em uma nova janela.
-
-![360&deg; Image Viewer](../images/blackboard/Blackboard-SS11.png)
-
-Pronto! Um vídeo da coleção do **Ambia 360** foi adicionado com sucesso. Para assistir e interagir com o vídeo agora, vá até a página do curso em que foi adicionado e selecione o título do vídeo.
-
->Se o vídeo não carregou é possível que você tenha errado algum passo durante a [instalação](#guia-de-instalacao) ou talvez na hora de adicionar o vídeo. Caso necessário, realize a instalação e configuração novamente.
+Após finalizar todos os procedimentos do [Guia de Instalação](#guia-de-instalacao), recomendamos que faça um teste [adicionando vídeos do **Ambia 360** no seu Blackboard][blackboard-usage].
