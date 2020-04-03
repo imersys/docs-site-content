@@ -7,6 +7,7 @@ parent_section: ambia360
 ---
 
 [moodle]: ./moodle.md
+[catalogo]: ./catalogo.md
 
 > Este guia tem o objetivo de auxiliar a utilização do **Ambia 360** na plataforma **Moodle**. O guia é primariamente destinado à **professores e coordenadores de instituições de ensino**.
 
@@ -46,25 +47,9 @@ Na página seguinte, selecione a opção **Mostrar mais**.
 
 ### 2º Passo: Copiando o código do vídeo no Catálogo
 
-O próximo passo para adicionar vídeos no Moodle necessita que você tenha acesso ao [Catálogo](https://catalogo.imersys.com/), abrindo o site numa *nova aba* para escolher nossos vídeos você deseja adicionar ao Moodle. Se você já possui conta no site  do [Catálogo](https://catalogo.imersys.com/), faça login normalmente e pule para o 3º passo. Caso contrário, guiaremos você a seguir para criar uma conta.
+O próximo passo para adicionar vídeos no Moodle necessita que você tenha acesso ao [Catálogo](https://catalogo.imersys.com/), abrindo o site numa *nova aba* para escolher nossos vídeos você deseja adicionar ao Moodle.
 
-#### Criando uma conta
-
-Para criar uma conta é necessário que a sua instituição  de ensino lhe forneça o **Código da instituição**. Se você já possui este código em mãos, prossiga com a criação de sua conta. Caso contrário, entre em contato com sua instituição - possivelmente ela já obteve este código previamente junto à Imersys.
-
-Para criar sua conta preencha todos os campos que estão presentes na imagem abaixo, lembrando de adicionar o **Código da instituição** correto.
-
-![360&deg; Image Viewer](../images/catalogo/Catalogo-SS1.png)
-
-#### Utilizando o Catálogo
-
-Utilize a barra lateral do **Catálogo** para filtrar pelas grandes áreas ou então a barra de pesquisa superior para pesquisar textualmente um vídeo específico. Após encontrar o vídeo desejado, clique no ícone lateral como mostrado na imagem abaixo.
-
-![360&deg; Image Viewer](../images/catalogo/Catalogo-SS2.png)
-
-Após clicar no ícone, um menu será aberto e você irá clicar no botão que se refere ao **Moodle** para copiar o código do vídeo.
-
-![360&deg; Image Viewer](../images/catalogo/Catalogo-SS3.png)
+Se você já possui conta no [Catálogo](https://catalogo.imersys.com/), faça login normalmente e pule para o 3º passo. Caso contrário, guiaremos você em como [utilizar o Catálogo][catalogo].
 
 ### 3º Passo: Adicionando ao Moodle
 
