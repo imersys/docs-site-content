@@ -1,8 +1,8 @@
 ---
 title: Assistindo videos offline
-type: vrplayer
+type: imeplayer
 layout: docs
-parent_section: vrplayer
+parent_section: imeplayer
 order: 3
 ---
 

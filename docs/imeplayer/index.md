@@ -1,7 +1,7 @@
 ---
 title: Tocando vídeos 360°
-section_title: VR Player
-type: vrplayer
+section_title: Ime Player
+type: imeplayer
 layout: docs
 parent_section: docs
 order: 1
@@ -9,7 +9,7 @@ section_order: 3
 examples: []
 ---
 
-O VR Player é o tocador de vídeos na Web da Imersys. Com o VR Player você
+O Ime Player é o tocador de vídeos na Web da Imersys. Com o Ime Player você
 assiste vídeos em 360 graus e conteúdo de realidade virtual **usando headsets**
 ou **dispositivos tradicionais**.
 
@@ -68,6 +68,6 @@ para para uma maior imersão e também maior conforto durante a visualização d
 |------------|---------------------------------------|
 | Safari     | 13, com a opção de `Site Móvel` (ver explicação abaixo)                   |
 
-No iPad, o navegador Safari utiliza por padrão a versão desktop para visualizar as páginas, o que impossibilita alguns recursos mobile interessantes do VR Player (como o acesso ao giroscópio do dispositivo, por exemplo). Portanto, o usuário deverá `Solicitar Site Móvel` no Safari ao clicar no botão `aA` da barra de URL de modo que utilize todos os recursos do VR Player:
+No iPad, o navegador Safari utiliza por padrão a versão desktop para visualizar as páginas, o que impossibilita alguns recursos mobile interessantes do Ime Player (como o acesso ao giroscópio do dispositivo, por exemplo). Portanto, o usuário deverá `Solicitar Site Móvel` no Safari ao clicar no botão `aA` da barra de URL de modo que utilize todos os recursos do Ime Player:
 
 ![360&deg; Image Viewer](../images/vrplayer-ipad-request-mobile-version.png)
