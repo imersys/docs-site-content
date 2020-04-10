@@ -1,5 +1,9 @@
 ---
 title: Integrando na Web
+type: vrplayer
+layout: docs
+parent_section: vrplayer
+order: 2
 ---
 
 Esse guia tem como objetivo auxiliar na integração do **VR Player**  em uma **página** ou **aplicativo Web**. Esse guia é primariamente destinado à **administradores de sistemas** e o conhecimento básico de HTML é um requisito necessário.
