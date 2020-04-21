@@ -11,27 +11,28 @@ order: 2
 
 ## Iniciando a integração
 
-Para integrar o Ime Player, você deverá criar um arquivo .html e incluir o seguinte trecho `iframe` dentro do `<body>`:
+Para integrar o Ime Player em seu html, você deverá incluir o seguinte trecho dentro do `<body>`:
 
 ```html
-<html>
-  <body>
-    <iframe
-      width="100%" height="360"
-      style="border: 0"
-      allow="gyroscope,accelerometer,fullscreen"
-      src="https://player.imersys.com/video/366335646">
-    </iframe>
-  </body>
-</html>
+<iframe
+  id="player"
+  width="100%" height="360"
+  style="border: 0"
+  allow="xr-spatial-tracking,gyroscope,accelerometer,fullscreen"
+  src="https://player.imersys.com/video/366335646"
+>
+</iframe>
+
 ```
+
 
 Pronto! Uma característica importante do Ime Player é que a integração ocorre sem a necessidade de instalações. Ou seja, uma vez você aplique o trecho de código a cima em seu aplicativo ou página Web a visualização será a seguinte:
 
 <iframe
+      id="player"
       width="100%" height="360"
       style="border: 0"
-      allow="gyroscope,accelerometer,fullscreen"
+      allow="xr-spatial-tracking,gyroscope,accelerometer,fullscreen"
       src="https://player.imersys.com/video/366335646">
 </iframe>
 
@@ -58,9 +59,10 @@ Uma característica importante nos vídeos 360 graus é a visualização imersiv
 </head>
 <body>
   <iframe
+    id="player"
     class="player"
     height="100%" width="100%"
-    allow="gyroscope,accelerometer,fullscreen"
+    allow="xr-spatial-tracking,gyroscope,accelerometer,fullscreen"
     src="https://player.imersys.com/video/366335646">
   </iframe>
 </body>
@@ -69,7 +71,7 @@ Uma característica importante nos vídeos 360 graus é a visualização imersiv
 
 ### Mobile (Android, iOS)
 
-Outra característica desejada é a visualização de vídeos nos dispositivos mobile. Então não se esqueça também de adicionar o parâmetro `meta` dentro do `<head>`, para que a visualização seja na escala compatível com o tamanho da tela do seu dispositivo.
+Outra característica desejada é a visualização de vídeos nos dispositivos mobile. Então não se esqueça também de adicionar o parâmetro `meta` dentro do `<head>` (para que a visualização seja na escala compatível com o tamanho da tela do seu dispositivo) e o script `imeplayer-embed`.
 
 ```html
 <html>
@@ -89,11 +91,13 @@ Outra característica desejada é a visualização de vídeos nos dispositivos m
 </head>
 <body>
   <iframe
+    id="player"
     class="player"
     height="100%" width="100%"
-    allow="gyroscope,accelerometer,fullscreen"
+    allow="xr-spatial-tracking,gyroscope,accelerometer,fullscreen"
     src="https://player.imersys.com/video/366335646">
   </iframe>
+  <script defer src="//unpkg.com/imeplayer-embed@latest/dist/embed.js"></script>
 </body>
 </html>
 ```
