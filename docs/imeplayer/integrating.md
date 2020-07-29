@@ -6,12 +6,12 @@ parent_section: imeplayer
 order: 2
 ---
 
-> Esse guia tem como objetivo auxiliar na integração do **Ime Player**  em uma **página** ou **aplicativo Web**. Esse guia é primariamente destinado à **administradores de sistemas** e o conhecimento básico de HTML e CSS é um requisito.
+> Esse guia tem como objetivo auxiliar na integração do **ImePlayer**  em uma **página** ou **aplicativo Web**. Esse guia é primariamente destinado à **administradores de sistemas** e o conhecimento básico de HTML e CSS é um requisito.
 
 
 ## Iniciando a integração
 
-Para integrar o Ime Player em seu html, você deverá incluir o seguinte trecho dentro do `<body>`:
+Para integrar o ImePlayer em seu html, você deverá incluir o seguinte trecho dentro do `<body>`:
 
 ```html
 <iframe
@@ -26,7 +26,7 @@ Para integrar o Ime Player em seu html, você deverá incluir o seguinte trecho 
 ```
 
 
-Pronto! Uma característica importante do Ime Player é que a integração ocorre sem a necessidade de instalações. Ou seja, uma vez você aplique o trecho de código a cima em seu aplicativo ou página Web a visualização será a seguinte:
+Pronto! Uma característica importante do ImePlayer é que a integração ocorre sem a necessidade de instalações. Ou seja, uma vez você aplique o trecho de código a cima em seu aplicativo ou página Web a visualização será a seguinte:
 
 <iframe
       id="player"
@@ -40,7 +40,7 @@ Pronto! Uma característica importante do Ime Player é que a integração ocorr
 
 ### Fullscreen
 
-Uma característica importante nos vídeos 360 graus é a visualização imersiva, mesmo quando não utilizado um headset de Realidade Virtual. Então muito provavelmente você vai querer integrar o Ime Player em sua aplicação cobrindo toda tela do seu dispositivo no modo fullscreen. Para isso será necessário definir alguns parâmetros na folhas de estilos CSS. Por exemplo:
+Uma característica importante nos vídeos 360 graus é a visualização imersiva, mesmo quando não utilizado um headset de Realidade Virtual. Então muito provavelmente você vai querer integrar o ImePlayer em sua aplicação cobrindo toda tela do seu dispositivo no modo fullscreen. Para isso será necessário definir alguns parâmetros na folhas de estilos CSS. Por exemplo:
 
 ```html
 <html>

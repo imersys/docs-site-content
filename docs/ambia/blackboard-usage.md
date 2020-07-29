@@ -2,8 +2,8 @@
 title: Adicionando vídeos ao Blackboard
 type: ambia
 layout: docs
-order: 4
 parent_section: ambia
+order: 5
 ---
 
 [blackboard]: ./index.md
