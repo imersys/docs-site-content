@@ -1,19 +1,19 @@
 ---
 title: Instalando no Blackboard
-section_title: Ambia 360
-type: ambia360
+section_title: Ambia
+type: ambia
 layout: docs
 parent_section: docs
 order: 1
 section_order: 2
 ---
 
-> Este guia tem o objetivo de auxiliar a instalação do **Ambia 360** na plataforma **Blackboard Learn**. O guia é primariamente destinado à **administradores de sistemas**.
+> Este guia tem o objetivo de auxiliar a instalação do **Ambia** na plataforma **Blackboard Learn**. O guia é primariamente destinado à **administradores de sistemas**.
 
 
 ## Requisitos Técnicos
 
-A seguir são listados os requisitos técnicos necessários para realizar a instalação do **Ambia 360**:
+A seguir são listados os requisitos técnicos necessários para realizar a instalação do **Ambia**:
 
 1. Um **ambiente Blackboard Learn** configurado com acesso de **administrador**
 2. O **Domínio do provedor** (fornecido pela Imersys por e-mail)
@@ -61,10 +61,10 @@ Na opção **Campos de usuário para enviar** é importante deixar selecionadas 
 ![360&deg; Image Viewer](../images/blackboard/Blackboard-SS6.png)
 
 Em seguida clique em **Enviar** e pronto! Se você seguiu todos os passos corretamente sua
-ferramenta **Ambia 360** foi instalada com sucesso. Se algo deu errado revise a [instalação](#guia-de-instalacao) para ver se nenhum erro foi cometido.
+ferramenta **Ambia** foi instalada com sucesso. Se algo deu errado revise a [instalação](#guia-de-instalacao) para ver se nenhum erro foi cometido.
 
 ## Testando a Instalação
 
 [blackboard-usage]: ./blackboard-usage.md
 
-Após finalizar todos os procedimentos do [Guia de Instalação](#guia-de-instalacao), recomendamos que faça um teste [adicionando vídeos do **Ambia 360** no seu Blackboard][blackboard-usage].
+Após finalizar todos os procedimentos do [Guia de Instalação](#guia-de-instalacao), recomendamos que faça um teste [adicionando vídeos do **Ambia** no seu Blackboard][blackboard-usage].

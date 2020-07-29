@@ -1,9 +1,9 @@
 ---
 title: Adicionando vídeos ao Moodle
-type: ambia360
+type: ambia
 layout: docs
-order: 5
-parent_section: ambia360
+order: 4
+parent_section: ambia
 ---
 
 [moodle]: ./moodle.md

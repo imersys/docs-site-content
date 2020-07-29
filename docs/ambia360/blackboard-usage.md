@@ -1,9 +1,9 @@
 ---
 title: Adicionando vídeos ao Blackboard
-type: ambia360
+type: ambia
 layout: docs
-order: 4
-parent_section: ambia360
+order: 3
+parent_section: ambia
 ---
 
 [blackboard]: ./index.md

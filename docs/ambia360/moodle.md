@@ -1,9 +1,9 @@
 ---
 title: Instalando no Moodle
-type: ambia360
+type: ambia
 layout: docs
+parent_section: ambia
 order: 2
-parent_section: ambia360
 ---
 
 > Este guia tem o objetivo de auxiliar a instalação do **Ambia 360** na plataforma **Moodle**. O guia é primariamente destinado à **administradores de sistemas**.
