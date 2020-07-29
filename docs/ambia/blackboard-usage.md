@@ -48,10 +48,6 @@ Adicione um **Nome** ao seu vídeo e depois adicione a **URL** dele. A **URL** s
 
 ![360&deg; Image Viewer](images/Blackboard-SS10.png)
 
-Por fim, nas **Opções de link da web**, marque **Não** para a opção de Abrir link em uma nova janela.
-
-![360&deg; Image Viewer](images/Blackboard-SS11.png)
-
 Pronto! Um vídeo da coleção do **Ambia 360** foi adicionado com sucesso. Para assistir e interagir com o vídeo agora, vá até a página do curso em que foi adicionado e selecione o título do vídeo.
 
 >Se o vídeo não carregou é possível que você tenha errado algum passo durante a [instalação][blackboard] ou talvez na hora de adicionar o vídeo. Caso necessário, realize a instalação e configuração novamente.
