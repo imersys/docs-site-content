@@ -65,4 +65,4 @@ ferramenta **Ambia** foi instalada com sucesso. Se algo deu errado revise a [ins
 
 [blackboard-usage]: ./blackboard-usage.md
 
-Após finalizar todos os procedimentos do [Guia de Instalação](#guia-de-instalacao), recomendamos que faça um teste [adicionando vídeos do **Ambia** no seu Blackboard][blackboard-usage].
+Após finalizar todos os procedimentos do [Guia de Instalação](#guia-de-instalacao), recomendamos que faça um teste [adicionando *experiências imersivas* do **Ambia** no seu Blackboard][blackboard-usage].

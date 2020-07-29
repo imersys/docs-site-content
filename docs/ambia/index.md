@@ -1,5 +1,5 @@
 ---
-title: Buscando Experiências
+title: Buscando experiências
 section_title: Ambia
 type: ambia
 layout: docs

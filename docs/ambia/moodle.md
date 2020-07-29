@@ -6,11 +6,11 @@ parent_section: ambia
 order: 3
 ---
 
-> Este guia tem o objetivo de auxiliar a instalação do **Ambia 360** na plataforma **Moodle**. O guia é primariamente destinado à **administradores de sistemas**.
+> Este guia tem o objetivo de auxiliar a instalação do **Ambia** na plataforma **Moodle**. O guia é primariamente destinado à **administradores de sistemas**.
 
 ## Requisitos Técnicos
 
-A seguir são listados os requisitos técnicos necessários para realizar a instalação  do **Ambia 360**:
+A seguir são listados os requisitos técnicos necessários para realizar a instalação  do **Ambia**:
 
 1. Um **ambiente Moodle** configurado com acesso de **administrador**
 2. A **URL da ferramenta** (fornecido pela Imersys por e-mail)
@@ -50,10 +50,8 @@ Feito isso, na caixa **Uso da configuração de ferramenta**, selecione a opçã
 
 ![360&deg; Image Viewer](images/Moodle-SS4.png)
 
-> Nós recomendamos que o nome "Ambia 360" seja utilizado durante a instalação para facilitar o acesso e uso da ferramenta.
-
 ## Testando a Instalação
 
 [moodle-usage]: ./moodle-usage.md
 
-Após finalizar todos os procedimentos do [Guia de Instalação](#guia-de-instalacao), recomendamos que faça um teste [adicionando vídeos do **Ambia 360** no seu Moodle][moodle-usage].
+Após finalizar todos os procedimentos do [Guia de Instalação](#guia-de-instalacao), recomendamos que faça um teste [adicionando *experiências imersivas* do **Ambia** no seu Moodle][moodle-usage].
