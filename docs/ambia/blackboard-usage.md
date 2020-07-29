@@ -2,7 +2,7 @@
 title: Adicionando vídeos ao Blackboard
 type: ambia
 layout: docs
-order: 3
+order: 4
 parent_section: ambia
 ---
 
@@ -22,17 +22,17 @@ O primeiro passo para adicionar vídeos do **Ambia 360** é garantir que a [inst
 
 Como primeiro passo para adicionar um vídeo, selecione a opção **Cursos** no menu lateral e então selecione algum curso para adicionar o **Ambia 360**.
 
-![360&deg; Image Viewer](../images/blackboard/Blackboard-SS7.png)
+![360&deg; Image Viewer](images/Blackboard-SS7.png)
 
 No exemplo da imagem utilizamos o curso "Teste de Integração 360", mas a princípio você pode utilizar *qualquer* curso.
 
 Na sequência, selecione no menu lateral a opção **Conteúdo**.
 
-![360&deg; Image Viewer](../images/blackboard/Blackboard-SS8.png)
+![360&deg; Image Viewer](images/Blackboard-SS8.png)
 
 Após isso, no seletor **Criar conteúdo** localizado no menu superior, selecione a opção **Criar Link da Web**.
 
-![360&deg; Image Viewer](../images/blackboard/Blackboard-SS9.png)
+![360&deg; Image Viewer](images/Blackboard-SS9.png)
 
 ### 2º Passo: Copiando o código do vídeo no Catálogo
 
@@ -46,11 +46,11 @@ Agora é necessário preencher as informações coletadas no **Catálogo** ao Bl
 
 Adicione um **Nome** ao seu vídeo e depois adicione a **URL** dele. A **URL** será uma composição do **Domínio do provedor** e código do vídeo. Exemplo: **https://lms.imersys.com/?ua=363681335**
 
-![360&deg; Image Viewer](../images/blackboard/Blackboard-SS10.png)
+![360&deg; Image Viewer](images/Blackboard-SS10.png)
 
 Por fim, nas **Opções de link da web**, marque **Não** para a opção de Abrir link em uma nova janela.
 
-![360&deg; Image Viewer](../images/blackboard/Blackboard-SS11.png)
+![360&deg; Image Viewer](images/Blackboard-SS11.png)
 
 Pronto! Um vídeo da coleção do **Ambia 360** foi adicionado com sucesso. Para assistir e interagir com o vídeo agora, vá até a página do curso em que foi adicionado e selecione o título do vídeo.
 

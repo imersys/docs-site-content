@@ -1,9 +1,11 @@
 ---
-title: Acessando o Catálogo Ambia
-type: ambia360
+title: Buscando Experiências
+section_title: Ambia
+type: ambia
 layout: docs
-parent_section: ambia360
-order: 3
+parent_section: docs
+order: 1
+section_order: 2
 ---
 
 > Este guia é primariamente destinado à **professores e coordenadores de instituições de ensino**.
@@ -18,14 +20,14 @@ Para acessar o catálogo é necessário uma conta com usuário e senha **forneci
 
 Se você já possui o usuário e a senha, prossiga efetuando o login. Caso contrário, entre em contato com sua instituição - possivelmente ela já obteve este código previamente junto à Imersys.
 
-![360&deg; Image Viewer](../images/catalogo/Catalogo-SS1.png)
+![360&deg; Image Viewer](images/Catalogo-SS1.png)
 
 ### Utilizando o Catálogo
 
 Utilize a barra lateral do **Catálogo** para filtrar pelas grandes áreas ou então a barra de pesquisa superior para pesquisar textualmente por vídeos, laboratórios ou elementos interativos. Após encontrar a experiência desejada, clique no ícone lateral como mostrado na imagem abaixo.
 
-![360&deg; Image Viewer](../images/catalogo/Catalogo-SS2.png)
+![360&deg; Image Viewer](images/Catalogo-SS2.png)
 
 Ao clicar no ícone, um menu será aberto e você irá clicar no botão que se refere a seu **LMS** para copiar o código da experiência.
 
-![360&deg; Image Viewer](../images/catalogo/Catalogo-SS3.png)
+![360&deg; Image Viewer](images/Catalogo-SS3.png)

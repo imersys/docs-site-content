@@ -2,7 +2,7 @@
 title: Adicionando vídeos ao Moodle
 type: ambia
 layout: docs
-order: 4
+order: 5
 parent_section: ambia
 ---
 
@@ -21,29 +21,29 @@ O primeiro passo para adicionar vídeos do **Ambia 360** é garantir que a [inst
 
 Como primeiro passo para adicionar um vídeo, selecione a opção **Página inicial do site** no menu lateral e então selecione algum curso para adicionar o **Ambia 360**.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS5.png)
+![360&deg; Image Viewer](images/Moodle-SS5.png)
 
 No exemplo da imagem utilizamos o curso "Pedagogia", mas a princípio você pode utilizar *qualquer* curso.
 
 Na sequência, dentro do curso selecionado procure o ícone de engrenagem à direita da página e selecione a opção **Ativar edição**.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS6.png)
+![360&deg; Image Viewer](images/Moodle-SS6.png)
 
 Com o modo de edição habilitado, ainda à direita da página selecione a opção **Adicionar uma atividade ou recurso**.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS7.png)
+![360&deg; Image Viewer](images/Moodle-SS7.png)
 
 Dentro do pop-up de **Adicionar uma atividade ou recurso** selecione a ferramenta **Ambia 360** e selecione **Adicionar**.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS8.png)
+![360&deg; Image Viewer](images/Moodle-SS8.png)
 
 -----------------------------------
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS9.png)
+![360&deg; Image Viewer](images/Moodle-SS9.png)
 
 Na página seguinte, selecione a opção **Mostrar mais**.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS10.png)
+![360&deg; Image Viewer](images/Moodle-SS10.png)
 
 ### 2º Passo: Copiando o código do vídeo no Catálogo
 
@@ -57,7 +57,7 @@ Agora é necessário preencher as informações coletadas no **Catálogo** ao Mo
 
 Preencha o nome do vídeo e, no campo **Parâmetros customizados** coloque o parâmetro que foi copiado do **Catálogo**.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS11.png)
+![360&deg; Image Viewer](images/Moodle-SS11.png)
 
 Pronto! Um vídeo da coleção do **Ambia 360** foi adicionado com sucesso. Para assistir e interagir com o vídeo agora, vá até a página do curso em que foi adicionado e selecione o título do vídeo.
 

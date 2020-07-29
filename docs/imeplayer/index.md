@@ -70,4 +70,4 @@ para para uma maior imersão e também maior conforto durante a visualização d
 
 No iPad, o navegador Safari utiliza por padrão a versão desktop para visualizar as páginas, o que impossibilita alguns recursos mobile interessantes do Ime Player (como o acesso ao giroscópio do dispositivo, por exemplo). Portanto, o usuário deverá `Solicitar Site Móvel` no Safari ao clicar no botão `aA` da barra de URL de modo que utilize todos os recursos do Ime Player:
 
-![360&deg; Image Viewer](../images/vrplayer-ipad-request-mobile-version.png)
+![360&deg; Image Viewer](images/imeplayer-ipad-request-mobile-version.png)

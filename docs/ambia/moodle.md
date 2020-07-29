@@ -3,7 +3,7 @@ title: Instalando no Moodle
 type: ambia
 layout: docs
 parent_section: ambia
-order: 2
+order: 3
 ---
 
 > Este guia tem o objetivo de auxiliar a instalação do **Ambia 360** na plataforma **Moodle**. O guia é primariamente destinado à **administradores de sistemas**.
@@ -26,7 +26,7 @@ A seguir são listados os requisitos técnicos necessários para realizar a inst
 
 Se sua instituição satifaz todos os requisitos técnicos da seção anterior, o primeiro passo para iniciar a instalação da ferramenta é ir até a área de **Administração do site**.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS1.png)
+![360&deg; Image Viewer](images/Moodle-SS1.png)
 
 > Se você não tem acesso à essa área, peça ao administrador do Moodle  de sua instituição para que instale esta ferramenta para você ou peça para que ele lhe conceda acesso.
 
@@ -36,11 +36,11 @@ Se sua instituição satifaz todos os requisitos técnicos da seção anterior, 
 
 Dentro da área de **Administração do site** na plataforma Moodle, selecione a aba **Plugins** e na seção de **Atividades** a opção **Gerenciar ferramentas**.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS2.png)
+![360&deg; Image Viewer](images/Moodle-SS2.png)
 
  Dentro da página de **Gerenciar ferramentas** selecione a opção **Conﬁgurar uma ferramenta manualmente**.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS3.png)
+![360&deg; Image Viewer](images/Moodle-SS3.png)
 
 ### 3º Passo: Configurando a ferramenta
 
@@ -48,7 +48,7 @@ Agora dentro da página de **Configurações da ferramenta**, além de preencher
 
 Feito isso, na caixa **Uso da configuração de ferramenta**, selecione a opção **Mostrar no seletor de atividades como uma ferramenta pré-configurada**.
 
-![360&deg; Image Viewer](../images/moodle/Moodle-SS4.png)
+![360&deg; Image Viewer](images/Moodle-SS4.png)
 
 > Nós recomendamos que o nome "Ambia 360" seja utilizado durante a instalação para facilitar o acesso e uso da ferramenta.
 
